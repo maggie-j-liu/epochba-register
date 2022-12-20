@@ -40,6 +40,8 @@ Thanks for registering for Epoch Bay Area <https://epochba.hackclub.com>; we're 
           : ""
       }
 
+Our venue also has a waiver you must sign (this is different from the one that was emailed): https://www.webwaiver.com/sign/circuitlaunch/clml-waiver
+
 For now, come hang out with other attendees (and suggest things you'd like to see at the hackathon) in the #epoch-ba <https://hackclub.slack.com/archives/C04AKL9UKEY> channel of the Hack Club Slack <https://hackclub.com/slack>.
 
 We look forward to seeing you at Epoch Bay Area, on December 30th (9am - 9pm) at Circuit Launch (8000 Edgewater Dr., Ste. 200, Oakland, CA 94621)! We'll send out more updates through email and in the Slack, but reply to this email if you have any questions.
@@ -54,6 +56,10 @@ Thanks for registering for <a href="https://epochba.hackclub.com">Epoch Bay Area
           ? " Once you sign, your parent/guardian will receive an email to sign and complete the rest of the waiver."
           : ""
       }
+</div>
+<br />
+<div>
+Our venue also has a waiver you must sign (this is different from the one that was emailed): https://www.webwaiver.com/sign/circuitlaunch/clml-waiver
 </div>
 <br />
 <div>
